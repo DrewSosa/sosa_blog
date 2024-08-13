@@ -8,7 +8,36 @@
     <language>en-us</language>
     <managingEditor>andrewsosanya[at]gmail.com (Sosa)</managingEditor>
     <webMaster>andrewsosanya[at]gmail.com (Sosa)</webMaster>
-    <lastBuildDate>Tue, 13 Aug 2024 17:23:06 -0400</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Aug 2024 18:57:35 -0400</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/posts/about-me/</link>
+      <pubDate>Tue, 13 Aug 2024 18:57:35 -0400</pubDate>
+      <author>andrewsosanya[at]gmail.com (Sosa)</author>
+      <guid>http://localhost:1313/posts/about-me/</guid>
+      <description>&lt;p&gt;Sosa is a technologist passionate about the intersection of national security and technology. He currently works as a Machine Learning Engineer at &lt;a href=&#34;https://www.sandboxaq.com/solutions/aqnav&#34;&gt;&lt;strong&gt;SandboxAQ&lt;/strong&gt;&lt;/a&gt;, focusing on &lt;a href=&#34;https://www.sandboxaq.com/solutions/aqnav&#34;&gt;&lt;strong&gt;magnetic-anomaly based navigation&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Previously, he served as a Policy Analyst for the &lt;a href=&#34;https://fas.org/day-one-project/&#34;&gt;&lt;strong&gt;Day One Project&lt;/strong&gt;&lt;/a&gt;, a science and tech policy incubator. While at the Day One Project, he developed ambitious and actionable policy ideas on issues such as reforming the $700B+ defense budget, electrifying 5,000 airports to eradicate lead poisoning and achieve decarbonization, and training diverse scientists.&lt;/p&gt;
+&lt;p&gt;In 2020, he penned a thesis on the &lt;strong&gt;rise of autonomous weapons and militarized AI&lt;/strong&gt;, which won Dartmouth&amp;rsquo;s Chase Peace Prize.&lt;/p&gt;
+&lt;p&gt;In 2018, he was an &lt;strong&gt;Astrophysics Fellow in Caltech&amp;rsquo;s NASA NuStar Group&lt;/strong&gt;, where he researched ultra-bright neutron stars.&lt;/p&gt;
+&lt;p&gt;Sosa graduated from Dartmouth College with a B.A. in Physics and Government, modified with Computer Science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Current_works</title>
+      <link>http://localhost:1313/posts/current_works/</link>
+      <pubDate>Tue, 13 Aug 2024 17:42:34 -0400</pubDate>
+      <author>andrewsosanya[at]gmail.com (Sosa)</author>
+      <guid>http://localhost:1313/posts/current_works/</guid>
+      <description>&lt;p&gt;Listed are a few things that I am currently working on at the moment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Composition&lt;/strong&gt; I&amp;rsquo;m learning how to compose and arrange my own music.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cover Channel&lt;/strong&gt; I started a cover channel, linked here.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Magnetic Anomaly-Based Navigation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This blog&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Graduate School Apps&lt;/strong&gt; I guess the quest for knowledge never truly stops.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
